@@ -36,5 +36,7 @@ public class Prob5 {
 			}
 			count++;
 		}
+		
+		s.close();
 	}
 }
